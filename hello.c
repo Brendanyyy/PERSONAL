@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    char hello[] = "Cyka Blyat";
+    char hello[] = "Version 3";
     
     printf("%s\n", hello);
 }
